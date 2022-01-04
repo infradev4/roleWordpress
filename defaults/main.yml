@@ -14,4 +14,3 @@ mysql_database: db_wordpress
 mysql_user: wordpress
 mysql_password: wordpress123!
 mysql_container_data:  mysqlData
-
