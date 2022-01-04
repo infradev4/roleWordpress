@@ -4,3 +4,4 @@ galaxy_info:
   description: Setup simple wordpress site using docker container
   license: COPYING
   min_ansible_version: core 2.12.1
+  company: galere
