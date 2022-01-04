@@ -1,0 +1,17 @@
+# Docker Create a network
+network_one: wordpress
+
+# Docker wordpress settings
+wordpress_container_name: wordpress
+wordpress_exposed_port: 80
+wordpress_container_data:  wordpressData
+
+# Docker mysql settings
+mariadb_container_name: mysql
+mysql_exposed_port: 3306
+mysql_root_password: root123!
+mysql_database: db_wordpress
+mysql_user: wordpress
+mysql_password: wordpress123!
+mysql_container_data:  mysqlData
+

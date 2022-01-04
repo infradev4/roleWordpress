@@ -1,0 +1,17 @@
+---
+namespace: community
+name: wordpress
+version: 1.0.0
+readme: README.md
+authors:
+  - Oussama ZAID
+description: Install wordpress with docker
+license_file: COPYING
+tags:
+  - v1
+repository: https://github.com/infradev4/roleWordpress.git
+documentation: https://github.com/infradev4/roleWordpress.git
+homepage: https://github.com/infradev4/roleWordpress.git
+issues: https://github.com/infradev4/roleWordpress.git
+build_ignore:
+  - .gitignore
