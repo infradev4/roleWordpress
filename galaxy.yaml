@@ -1,5 +1,5 @@
 ---
-namespace: community2
+namespace: community
 name: wordpress
 version: 1.0.0
 readme: README.md
